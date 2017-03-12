@@ -1280,3 +1280,169 @@ Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8b
 
 
 Started GET "/assets/application.self-3b8dabdc891efe46b9a144b400ad69e37d7e5876bdc39dee783419a69d7ca819.js?body=1" for ::1 at 2016-02-15 00:51:22 -0500
+
+
+Started GET "/" for 73.233.148.75 at 2017-03-12 20:59:47 +0000
+Cannot render console from 73.233.148.75! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by SearchesController#search as HTML
+Redirected to https://foursquare.com/oauth2/authenticate?client_id=TFOJGRHG1NVTN0HRMM4LOL10NH1POOVIMPHEHO24PUEDSBF4&response_type=code&redirect_uri=http%3A%2F%2Flocalhost%3A3000%2Fauth
+Filter chain halted as :authenticate_user rendered or redirected
+Completed 302 Found in 60ms (ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 73.233.148.75 at 2017-03-12 20:59:55 +0000
+Cannot render console from 73.233.148.75! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by SearchesController#search as HTML
+Redirected to https://foursquare.com/oauth2/authenticate?client_id=TFOJGRHG1NVTN0HRMM4LOL10NH1POOVIMPHEHO24PUEDSBF4&response_type=code&redirect_uri=http%3A%2F%2Flocalhost%3A3000%2Fauth
+Filter chain halted as :authenticate_user rendered or redirected
+Completed 302 Found in 1ms (ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 73.233.148.75 at 2017-03-12 21:09:13 +0000
+Cannot render console from 73.233.148.75! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by SearchesController#search as HTML
+Redirected to https://foursquare.com/oauth2/authenticate?client_id=TFOJGRHG1NVTN0HRMM4LOL10NH1POOVIMPHEHO24PUEDSBF4&response_type=code&redirect_uri=http%3A%2F%2Flocalhost%3A3000%2Fauth
+Filter chain halted as :authenticate_user rendered or redirected
+Completed 302 Found in 15ms (ActiveRecord: 0.0ms)
+
+
+Started GET "/friends" for 73.233.148.75 at 2017-03-12 21:09:16 +0000
+Cannot render console from 73.233.148.75! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by SearchesController#friends as HTML
+Redirected to https://foursquare.com/oauth2/authenticate?client_id=TFOJGRHG1NVTN0HRMM4LOL10NH1POOVIMPHEHO24PUEDSBF4&response_type=code&redirect_uri=http%3A%2F%2Flocalhost%3A3000%2Fauth
+Filter chain halted as :authenticate_user rendered or redirected
+Completed 302 Found in 1ms (ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 73.233.148.75 at 2017-03-12 21:10:39 +0000
+Cannot render console from 73.233.148.75! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by SearchesController#search as HTML
+Redirected to https://foursquare.com/oauth2/authenticate?client_id=TFOJGRHG1NVTN0HRMM4LOL10NH1POOVIMPHEHO24PUEDSBF4&response_type=code&redirect_uri=http%3A%2F%2F159.203.89.115%3A30038%2Fauth
+Filter chain halted as :authenticate_user rendered or redirected
+Completed 302 Found in 1ms (ActiveRecord: 0.0ms)
+
+
+Started GET "/auth?code=CHECSTTPRIX00US2HXX5XHD25GQ0B5Y1QFWQVEG1UNHGWVXL" for 73.233.148.75 at 2017-03-12 21:10:42 +0000
+Cannot render console from 73.233.148.75! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by SessionsController#create as HTML
+  Parameters: {"code"=>"CHECSTTPRIX00US2HXX5XHD25GQ0B5Y1QFWQVEG1UNHGWVXL"}
+Redirected to http://159.203.89.115:30038/
+Completed 302 Found in 113ms (ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 73.233.148.75 at 2017-03-12 21:10:42 +0000
+Cannot render console from 73.233.148.75! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by SearchesController#search as HTML
+Redirected to https://foursquare.com/oauth2/authenticate?client_id=TFOJGRHG1NVTN0HRMM4LOL10NH1POOVIMPHEHO24PUEDSBF4&response_type=code&redirect_uri=http%3A%2F%2F159.203.89.115%3A30038%2Fauth
+Filter chain halted as :authenticate_user rendered or redirected
+Completed 302 Found in 2ms (ActiveRecord: 0.0ms)
+
+
+Started GET "/auth?code=DO0IJKTHWH2A15VYPY22YHW3W454MBIJSBWML0HNH42MN1GK" for 73.233.148.75 at 2017-03-12 21:10:44 +0000
+Cannot render console from 73.233.148.75! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by SessionsController#create as HTML
+  Parameters: {"code"=>"DO0IJKTHWH2A15VYPY22YHW3W454MBIJSBWML0HNH42MN1GK"}
+Redirected to http://159.203.89.115:30038/
+Completed 302 Found in 58ms (ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 73.233.148.75 at 2017-03-12 21:10:44 +0000
+Cannot render console from 73.233.148.75! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by SearchesController#search as HTML
+Redirected to https://foursquare.com/oauth2/authenticate?client_id=TFOJGRHG1NVTN0HRMM4LOL10NH1POOVIMPHEHO24PUEDSBF4&response_type=code&redirect_uri=http%3A%2F%2F159.203.89.115%3A30038%2Fauth
+Filter chain halted as :authenticate_user rendered or redirected
+Completed 302 Found in 1ms (ActiveRecord: 0.0ms)
+
+
+Started GET "/auth?code=XXIK0LRGPQ1YDZSWIVYTJUIK2TZHVZQNIPT2ATOMWGQIQMNY" for 73.233.148.75 at 2017-03-12 21:10:46 +0000
+Cannot render console from 73.233.148.75! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by SessionsController#create as HTML
+  Parameters: {"code"=>"XXIK0LRGPQ1YDZSWIVYTJUIK2TZHVZQNIPT2ATOMWGQIQMNY"}
+Redirected to http://159.203.89.115:30038/
+Completed 302 Found in 47ms (ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 73.233.148.75 at 2017-03-12 21:10:46 +0000
+Cannot render console from 73.233.148.75! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by SearchesController#search as HTML
+Redirected to https://foursquare.com/oauth2/authenticate?client_id=TFOJGRHG1NVTN0HRMM4LOL10NH1POOVIMPHEHO24PUEDSBF4&response_type=code&redirect_uri=http%3A%2F%2F159.203.89.115%3A30038%2Fauth
+Filter chain halted as :authenticate_user rendered or redirected
+Completed 302 Found in 1ms (ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 73.233.148.75 at 2017-03-12 21:10:56 +0000
+Cannot render console from 73.233.148.75! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by SearchesController#search as HTML
+Redirected to https://foursquare.com/oauth2/authenticate?client_id=TFOJGRHG1NVTN0HRMM4LOL10NH1POOVIMPHEHO24PUEDSBF4&response_type=code&redirect_uri=http%3A%2F%2F159.203.89.115%3A30038%2Fauth
+Filter chain halted as :authenticate_user rendered or redirected
+Completed 302 Found in 1ms (ActiveRecord: 0.0ms)
+
+
+Started GET "/friends" for 73.233.148.75 at 2017-03-12 21:10:59 +0000
+Cannot render console from 73.233.148.75! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by SearchesController#friends as HTML
+Redirected to https://foursquare.com/oauth2/authenticate?client_id=TFOJGRHG1NVTN0HRMM4LOL10NH1POOVIMPHEHO24PUEDSBF4&response_type=code&redirect_uri=http%3A%2F%2F159.203.89.115%3A30038%2Fauth
+Filter chain halted as :authenticate_user rendered or redirected
+Completed 302 Found in 1ms (ActiveRecord: 0.0ms)
+
+
+Started GET "/auth?code=GNGSWE30FIDYVFQVRJBVGT1B0BIHNDULTG4NPLRS4WDNJQVB" for 73.233.148.75 at 2017-03-12 21:11:01 +0000
+Cannot render console from 73.233.148.75! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by SessionsController#create as HTML
+  Parameters: {"code"=>"GNGSWE30FIDYVFQVRJBVGT1B0BIHNDULTG4NPLRS4WDNJQVB"}
+Redirected to http://159.203.89.115:30038/
+Completed 302 Found in 70ms (ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 73.233.148.75 at 2017-03-12 21:11:01 +0000
+Cannot render console from 73.233.148.75! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by SearchesController#search as HTML
+Redirected to https://foursquare.com/oauth2/authenticate?client_id=TFOJGRHG1NVTN0HRMM4LOL10NH1POOVIMPHEHO24PUEDSBF4&response_type=code&redirect_uri=http%3A%2F%2F159.203.89.115%3A30038%2Fauth
+Filter chain halted as :authenticate_user rendered or redirected
+Completed 302 Found in 2ms (ActiveRecord: 0.0ms)
+
+
+Started GET "/auth?code=GUOLJSRWGH53MWIHVZWHQRHXTCML12QDQHXGEWH4QR1VSHV5" for 73.233.148.75 at 2017-03-12 21:11:04 +0000
+Cannot render console from 73.233.148.75! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by SessionsController#create as HTML
+  Parameters: {"code"=>"GUOLJSRWGH53MWIHVZWHQRHXTCML12QDQHXGEWH4QR1VSHV5"}
+Redirected to http://159.203.89.115:30038/
+Completed 302 Found in 58ms (ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 73.233.148.75 at 2017-03-12 21:11:04 +0000
+Cannot render console from 73.233.148.75! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by SearchesController#search as HTML
+Redirected to https://foursquare.com/oauth2/authenticate?client_id=TFOJGRHG1NVTN0HRMM4LOL10NH1POOVIMPHEHO24PUEDSBF4&response_type=code&redirect_uri=http%3A%2F%2F159.203.89.115%3A30038%2Fauth
+Filter chain halted as :authenticate_user rendered or redirected
+Completed 302 Found in 1ms (ActiveRecord: 0.0ms)
+
+
+Started GET "/auth?code=OD2U1MT5EZF1FGKPRPYXR3ZVS0BOPII3IO0U2G4ZZOJKQ2EF" for 73.233.148.75 at 2017-03-12 21:12:00 +0000
+Cannot render console from 73.233.148.75! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by SessionsController#create as HTML
+  Parameters: {"code"=>"OD2U1MT5EZF1FGKPRPYXR3ZVS0BOPII3IO0U2G4ZZOJKQ2EF"}
+Redirected to http://159.203.89.115:30038/
+Completed 302 Found in 52ms (ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 73.233.148.75 at 2017-03-12 21:12:00 +0000
+Cannot render console from 73.233.148.75! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by SearchesController#search as HTML
+  Rendered searches/search.html.erb within layouts/application (2.7ms)
+Completed 200 OK in 1216ms (Views: 1215.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/friends" for 73.233.148.75 at 2017-03-12 21:12:08 +0000
+Cannot render console from 73.233.148.75! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by SearchesController#friends as HTML
+Completed 500 Internal Server Error in 50ms (ActiveRecord: 0.0ms)
+
+NoMethodError (undefined method `[]' for nil:NilClass):
+  app/controllers/searches_controller.rb:37:in `friends'
+
+
+  Rendered /usr/local/rvm/gems/ruby-2.3.1/gems/actionpack-4.2.5/lib/action_dispatch/middleware/templates/rescues/_source.erb (6.5ms)
+  Rendered /usr/local/rvm/gems/ruby-2.3.1/gems/actionpack-4.2.5/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (3.7ms)
+  Rendered /usr/local/rvm/gems/ruby-2.3.1/gems/actionpack-4.2.5/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (1.7ms)
+  Rendered /usr/local/rvm/gems/ruby-2.3.1/gems/actionpack-4.2.5/lib/action_dispatch/middleware/templates/rescues/diagnostics.html.erb within rescues/layout (83.9ms)
